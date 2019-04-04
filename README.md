@@ -575,25 +575,16 @@ public class Actionmode extends AppCompatActivity {
 ## 结果截图
 
 ### 第一题
+![Screenshot_2019-03-26-11-15-33-09.png](https://i.loli.net/2019/04/04/5ca60dd08b7d7.png)
 
-![Screenshot_2019-03-26-11-15-33-09](E:\大三下\Android\实验源码以及截图\实验3\Screenshot_2019-03-26-11-15-33-09.png)
-
-![Screenshot_2019-03-26-11-16-02-10](E:\大三下\Android\实验源码以及截图\实验3\Screenshot_2019-03-26-11-16-02-10.png)
+![Screenshot_2019-03-26-11-16-02-10.png](https://i.loli.net/2019/04/04/5ca60e675d05e.png)
 
 ### 第二题
-
-
-
-![Screenshot_2019-04-03-20-49-35-92](E:\大三下\Android\实验源码以及截图\实验3\Screenshot_2019-04-03-20-49-35-92.png)
+![Screenshot_2019-04-03-20-49-35-92.png](https://i.loli.net/2019/04/04/5ca61ceddae13.png)
 
 ### 第三题
-
-![Screenshot_2019-04-03-20-49-58-62](E:\大三下\Android\实验源码以及截图\实验3\Screenshot_2019-04-03-20-49-58-62.png)
-
-
-
-![Screenshot_2019-04-03-20-50-02-11](E:\大三下\Android\实验源码以及截图\实验3\Screenshot_2019-04-03-20-50-02-11.png)
+![Screenshot_2019-04-03-20-49-58-62.png](https://i.loli.net/2019/04/04/5ca61d0703dda.png)
+![Screenshot_2019-04-03-20-50-02-11.png](https://i.loli.net/2019/04/04/5ca61d197d739.png)
 
 ### 第四题
-
-![Screenshot_2019-04-03-20-45-55-63](E:\大三下\Android\实验源码以及截图\实验3\Screenshot_2019-04-03-20-45-55-63.png)
+![Screenshot_2019-04-03-20-45-55-63.png](https://i.loli.net/2019/04/04/5ca61c7c43d4a.png)
