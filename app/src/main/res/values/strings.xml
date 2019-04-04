@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UIcompoExample</string>
+    <string name="UIcomponent">UIcomponent</string>
+    <string name="simpleAdaptor">simpleAdaptor</string>
+    <string name="alertdialog">alertDialog</string>
+    <string name="menutest">menuTest</string>
+    <string name="actionmode">ActionModeTest</string>
+    <string name="lion">Lion</string>
+    <string name="tiger">Tiger</string>
+    <string name="monkey">Monkey</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="elephant">Elephant</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="font_size">字体大小</string>
+    <string name="font_10">小</string>
+    <string name="font_16">中</string>
+    <string name="font_20">大</string>
+    <string name="font_color">字体颜色</string>
+    <string name="red">红色</string>
+    <string name="black">黑色</string>
+    <string name="normal">普通菜单项</string>
+    <string name="test">用于测试的内容</string>
+
+</resources>
